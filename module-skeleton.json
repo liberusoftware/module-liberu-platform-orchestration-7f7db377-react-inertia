@@ -1,0 +1,15 @@
+{
+  "repository": "module-liberu-platform-orchestration-7f7db377-react-inertia",
+  "capabilityKey": "liberusoftware/liberu-platform-orchestration",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-liberu-platform-orchestration-7f7db377-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/automation/nextjs/liberu-platform-orchestration.md",
+  "presentationPlan": "projects/automation/react/liberu-platform-orchestration.md",
+  "identityReviewRequired": true,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "automation"
+  ]
+}
